@@ -1,5 +1,4 @@
-﻿using System;
-class Program
+﻿class Program
 {
     static double A = 0, B = 0;
     static void Main()
