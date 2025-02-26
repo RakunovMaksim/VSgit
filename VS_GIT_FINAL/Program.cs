@@ -32,7 +32,7 @@
                     //   Console.WriteLine($"Результат: {Subtract(A, B)}");
                     break;
                 case "5":
-                    //   Console.WriteLine($"Результат: {Multiply(A, B)}");
+                       Console.WriteLine($"Результат: {Multiply(A, B)}");
                     break;
                 case "6":
                     //   Console.WriteLine($"Результат: {Divide(A, B)}");
