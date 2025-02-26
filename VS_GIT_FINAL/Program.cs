@@ -20,22 +20,22 @@
             switch (choice)
             {
                 case "1":
-                    InputA();
+                    //  InputA();
                     break;
                 case "2":
-                    InputB();
+                    //  InputB();
                     break;
                 case "3":
-                    Console.WriteLine($"Результат: {Add(A, B)}");
+                    //   Console.WriteLine($"Результат: {Add(A, B)}");
                     break;
                 case "4":
-                    Console.WriteLine($"Результат: {Subtract(A, B)}");
+                    //   Console.WriteLine($"Результат: {Subtract(A, B)}");
                     break;
                 case "5":
-                    Console.WriteLine($"Результат: {Multiply(A, B)}");
+                    //   Console.WriteLine($"Результат: {Multiply(A, B)}");
                     break;
                 case "6":
-                    Console.WriteLine($"Результат: {Divide(A, B)}");
+                    //   Console.WriteLine($"Результат: {Divide(A, B)}");
                     break;
                 case "0":
                     return;
