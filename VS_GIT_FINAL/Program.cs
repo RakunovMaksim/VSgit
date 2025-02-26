@@ -48,4 +48,3 @@
 
     static double Multiply(double a, double b) => a * b;
 }
-}
